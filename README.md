@@ -1,6 +1,6 @@
 <p align="center">
     <a href="logo">
-        <img src="https://user-images.githubusercontent.com/57969688/122852943-cf2c5700-d2e7-11eb-96c9-1e60655eba31.png" width="800px"/>
+        <img src="https://user-images.githubusercontent.com/57969688/122852943-cf2c5700-d2e7-11eb-96c9-1e60655eba31.png" width="500px"/>
     </a>
 </p>
 
@@ -25,7 +25,7 @@ Projeto desenvolvido durante a **nlw 6** oferecida pela **Rocketseat** e tem com
 
 -   Aula 01 - Liftoff :heavy_check_mark:
 -   Aula 02 - Maximum Speed :heavy_check_mark:
--   Aula 03 - In Orbit
+-   Aula 03 - In Orbit :heavy_check_mark:
 -   Aula 04 - Landing
 -   Aula 05 - Surface Exploration
 
