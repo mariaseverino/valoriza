@@ -26,8 +26,8 @@ Projeto desenvolvido durante a **nlw 6** oferecida pela **Rocketseat** e tem com
 -   Aula 01 - Liftoff :heavy_check_mark:
 -   Aula 02 - Maximum Speed :heavy_check_mark:
 -   Aula 03 - In Orbit :heavy_check_mark:
--   Aula 04 - Landing
--   Aula 05 - Surface Exploration
+-   Aula 04 - Landing :heavy_check_mark:
+-   Aula 05 - Surface Exploration :heavy_check_mark:
 
 ## 🤔 Como executar o projeto
 
